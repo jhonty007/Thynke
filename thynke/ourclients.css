@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    /* background-color: rgb(54, 52, 52); */
+    background-image: url('office1.jpg');
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    opacity: .8;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.details p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 100px;
+
+}
+
+.client p {
+    text-align: center;
+    color: red;
+}
+
+.client {
+    display: flex;
+    flex-direction: column;
+    width: 30vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 7%;
+    border: 2px solid grey;
+}
+
+.client img {
+    width: 30vh;
+    padding: 10px;
+}
+
+
+
+.client_1:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    width: 30vh;
+    height: 45vh;
+    border-radius: 7%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+    /* padding: 5px; */
+}
+
+.client_2:hover {
+    /* border: 1px solid; */
+    box-shadow: 5px 10px 8px 10px black;
+    background-color: beige;
+    width: 30vh;
+    height: 42vh;
+    border-radius: 7%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+    
+}
+
+
+.client_3:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color: beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+
+}
+
+.client_4:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color: beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+
+}
+
+.client_5:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color: beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+    /* padding: 100px; */
+
+}
+
+.client_6:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color: beige;
+    width: 30vh;
+    /* height: 70vh; */
+    border-radius: 5%;
+    transform: scale(1.05);
+    overflow: hidden;
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+    /* padding: 5px; */
+
+}
+
+.client_7:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color: beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+
+
+}
+
+.client_8:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+
+
+}
+
+.client_9:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+
+}
+
+.client_10:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+
+}
+
+.client_11:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+}
+
+.client_12:hover {
+    box-shadow: 5px 10px 8px 10px black;
+    background-color:beige;
+    width: 30vh;
+    height: 40vh;
+    border-radius: 5%;
+    transform: scale(1.05);
+    transition: .6ms ease-in-out;
+    border: 2px solid red;
+}
